@@ -5,7 +5,7 @@
 
 /**
  * main - check the code for Holberton School students.
- *
+ * true
  * Return: Always EXIT_SUCCESS.
  */
 int main(void)
